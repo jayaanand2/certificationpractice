@@ -1,0 +1,11 @@
+﻿{
+  "Id": "4uetNS_NAEyWD0eksuO1jg",
+  "Reference": "QK9ED81AvEetSWke8aUtsw/4uetNS_NAEyWD0eksuO1jg",
+  "Name": "RPA",
+  "Type": "App",
+  "Created": "2022-12-25T19:02:52.9829009Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-25T19:02:52.9829009Z"
+}

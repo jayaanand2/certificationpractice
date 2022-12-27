@@ -1,0 +1,13 @@
+﻿{
+  "Id": "1R6SsvKkKk6yIFbUTT758A",
+  "Reference": "QK9ED81AvEetSWke8aUtsw/1R6SsvKkKk6yIFbUTT758A",
+  "ParentRef": "QK9ED81AvEetSWke8aUtsw/E1mtggO_a0OZUONO8ZKZMw",
+  "Name": "Leaflet Map",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-12-25T19:02:53.3621115Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-25T19:02:53.3621115Z"
+}

@@ -1,0 +1,12 @@
+﻿{
+  "Id": "GwYBh5wNo0u0dFmZpyQ44Q",
+  "Reference": "QK9ED81AvEetSWke8aUtsw/GwYBh5wNo0u0dFmZpyQ44Q",
+  "ParentRef": "QK9ED81AvEetSWke8aUtsw/OI_6EnLuAk6y61-Z7hnsKw",
+  "Name": "Chrome: Automation Challenge",
+  "Type": "Screen",
+  "Created": "2022-12-25T19:02:53.4287142Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=22.10.2.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-12-25T19:02:53.4287142Z"
+}

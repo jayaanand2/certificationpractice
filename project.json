@@ -1,13 +1,13 @@
 {
   "name": "certificatepractice_Windows",
   "description": "Blank Process",
-  "main": "Main.xaml",
+  "main": "publish to orch.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.16.1]",
-    "UiPath.Mail.Activities": "[1.15.2]",
+    "UiPath.Mail.Activities": "[1.18.2]",
     "UiPath.PDF.Activities": "[3.11.0]",
     "UiPath.System.Activities": "[22.10.4]",
-    "UiPath.UIAutomation.Activities": "[22.4.5]"
+    "UiPath.UIAutomation.Activities": "[22.11.0-preview]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -39,7 +39,12 @@
       "privateWorkflows": []
     },
     "processOptions": {
-      "ignoredFiles": []
+      "ignoredFiles": [
+        "GlobalHandler.xaml",
+        "input methoda and ui.xaml",
+        "test.xaml",
+        "Main.xaml"
+      ]
     },
     "fileInfoCollection": [],
     "modernBehavior": true
@@ -47,8 +52,8 @@
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
-      "filePath": "Main.xaml",
-      "uniqueId": "9837dc2f-b407-4f7d-9b39-14a08a92335a",
+      "filePath": "publish to orch.xaml",
+      "uniqueId": "57294142-fd1e-4dfc-8586-141177f9a2cb",
       "input": [],
       "output": []
     }
